@@ -2,12 +2,12 @@
 
 <!DOCTYPE html>
 <?php
-
+// Modulo de Stiven Betancourt
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 // En SexoController.php
-require_once $_SERVER['DOCUMENT_ROOT'] . '/eysphp/config/database.php';
-require_once $_SERVER['DOCUMENT_ROOT'] . '/eysphp/app/models/Sexo.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/whatsapp5a/config/database.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/whatsapp5a/app/models/Sexo.php';
 
 
 

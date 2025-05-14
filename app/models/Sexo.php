@@ -1,4 +1,5 @@
 <?php
+// Programador: Stiven Betancourt 
 //controlador sexo
 class Sexo {
     private $conn;

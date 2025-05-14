@@ -1,5 +1,6 @@
 <?php
 // Modelo Telefono
+// Programador Ivan Augusto Peralta 
 class Telefono {
     private $conn;
     private $table_name = "telefono";
